@@ -12,6 +12,7 @@ import java.util.concurrent.ExecutionException;
 public class Main {
     public static String USERNAME;
     public static String PASSWORD;
+
     public static void main(String[] args) {
         Logger logger = LoggerFactory.getLogger(Main.class.getName());
         //LOAD CREDENTIALS FOR OPENSKYAPI FROM PROPERTIES FILE

@@ -10,9 +10,6 @@ import java.io.*;
 
 
 public class OpenSkyClient {
-
-
-
     public static String getFlightData(String user, String password) throws IOException {
 
 
